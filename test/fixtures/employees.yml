@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: MyString
+  employeeId: 1
+  hoursWorked: 1
+  jobGroup: MyString
+
+two:
+  date: MyString
+  employeeId: 1
+  hoursWorked: 1
+  jobGroup: MyString
